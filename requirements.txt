@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlite-vec
+fastembed
+pypdf
+groq
+python-dotenv
